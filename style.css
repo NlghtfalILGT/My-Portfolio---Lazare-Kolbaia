@@ -1,0 +1,159 @@
+body{
+    background-color:#101920;
+}
+
+ul, li{
+    float: left;
+    padding: 2px 15px;
+
+}
+
+li{
+    font-family: 'Poppins', sans-serif;
+    color: #101920;
+    display: inline;
+    margin: -10px;
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+.navbar{
+    background-color: yellow;
+    width: 1520px;
+    height: 50px;
+}
+
+li:hover{
+    cursor: pointer;
+}
+
+h1,h2{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    display: inline;
+    width: min-content;
+    font-size: 40px;
+}
+
+h2{
+    font-size: 22px;
+}
+
+h2:hover{
+    cursor: pointer;
+}
+
+.title-welcome:hover{
+    color: #101920;
+    cursor: pointer;
+    transition: 0.5s;
+    background-color: yellow;
+    width: min-content;
+}
+
+.cont-welcome{
+    margin-left: 100px;
+    margin-top: 120px;
+}
+
+.name{
+    color: yellow;
+}
+
+.name:hover{
+    cursor: pointer;
+    color: white;
+    transition: 0.5s;
+}
+
+.more-btn{
+    color: #101920;
+    font-family: 'Poppins', sans-serif;
+    background-color: yellow;
+    border-style: none;
+    width: 170px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 18px;
+    transition: 0.5s;
+}
+
+.more-btn:hover{
+    cursor: pointer;
+    color: #101920;
+    background-color: white;
+    transition: 0.5s;
+}
+
+.cont-welcome{
+    margin-left: 160px;
+    margin-top: -95px;
+}
+
+.gmail{
+ font-size: 11px;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+}
+
+a{
+    text-decoration: none;
+    color: #101920;
+}
+
+.contact {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  p{
+      color: yellow;
+      font-family: 'Poppins', sans-serif;    
+  }
+
+  span{
+      color:white;
+  }
+
+.html5{
+width: 410px;
+height: 40px;
+border: yellow 3px solid;
+background-color: transparent;
+border-radius: 10px;
+}
+
+.pointer1{
+    height: 40px;
+    width: 407px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.percentage{
+    color: black;
+}
+
+.pointer2{
+    height: 40px;
+    width: 392px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.pointer3{
+    height: 40px;
+    width: 108px;
+    background-color: black;
+    border-radius: 10px;
+}
